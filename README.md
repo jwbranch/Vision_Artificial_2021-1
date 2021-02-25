@@ -1,2 +1,3 @@
-# Vision_Artificial_2021-1
+# Visión_Artificial_2021-1
  
+Curso de visión artificial
